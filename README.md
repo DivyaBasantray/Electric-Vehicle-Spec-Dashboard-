@@ -13,14 +13,20 @@
 - Efficiency (Wh/km) varies significantly across models and segments, providing insights into energy consumption.
 
 3. Tech Stack
+
 📊 Microsoft Power BI Desktop - Main data visualization platform used for report creation.
+
 📂 Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+
 🧠 DAX (Data Analysis Expressions) - Used for calculated measures or KPIs (AVERAGE, MIN, MAX, DISTINCTCOUNT), dynamic visuals, and conditional logic.
+
 📝 Data Modeling - Relationships established among various specifications in table format (such as Range (Km), Battery Capacity (kWh), Fast Charging (kW), Top Speed (Km/h), Segment, Efficiency (Wh/km).
+
 📁 File Format - .pbix for development and .png for dashboard previews.
+
 📗 Microsoft Excel - used for initial data formatting/cleaning.
 
-4. Dashboard Purpose & Features
+5. Dashboard Purpose & Features
    
 🎯 Business Problem:
 - With the growing demand for electric vehicles (EVs) worldwide, car manufacturers and buyers need an easy way to compare EV specifications across brands and segments. However, these details are often scattered or too technical to interpret quickly.
