@@ -78,6 +78,10 @@ c) Help manufacturers and buyers identify trends, performance benchmarks, and po
 💡 Source: https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025/data
 
 6. Screenshots / Demos
+   
+Here's a preview of the dashboard:
+
+https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png
 
    
   
