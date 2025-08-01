@@ -31,15 +31,23 @@
 🎯 Business Problem:
 - With the growing demand for electric vehicles (EVs) worldwide, car manufacturers and buyers need an easy way to compare EV specifications across brands and segments. However, these details are often scattered or too technical to interpret quickly.
 - There is a need for a consolidated, visual tool that helps answer questions like:
+  
 a) Which EVs offer the best range for the battery size?
+
 b) How do different body types or segments compare in efficiency?
+
 c) Which brands lead in performance or fast charging capabilities?
 
 🧭 Goal of the Dashboard:
+
 - The goal of this Power BI dashboard is to:
+
 a) Provide a side-by-side comparison of EV models across key technical specs.
+
 b) Offer insights on top-performing brands, segments, and body types.
-c) Help manufacturers and buyers identify trends, performance benchmarks, and potential improvements
+
+c) Help manufacturers and buyers identify trends, performance benchmarks, and potential improvements.
+
 - This dashboard simplifies complex EV data into visual summaries, KPIs, and comparisons to enable quicker, data-driven decisions.  
    
 KPIs for:
