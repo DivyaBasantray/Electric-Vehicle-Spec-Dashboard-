@@ -80,7 +80,9 @@ Visualizations:
 6. Screenshots / Demos
    
 Here's a preview of the dashboard:
-[Dashboard Preview](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Snapshot](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-/raw/main/Snapshot%20of%20the%20Dashboard.png)
+
+
 
 
    
