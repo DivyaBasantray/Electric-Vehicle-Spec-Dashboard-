@@ -51,10 +51,15 @@ c) Help manufacturers and buyers identify trends, performance benchmarks, and po
 
 ✅ Visualizations:
 📋 Table: Detailed EV specifications (Range, Battery, Charging, Speed, Segment, Efficiency)
+
 🎯 Scatter Plot: Range vs Top Speed vs Acceleration by Brand
+
 🍩 Donut Chart: Top 5 Vehicle Segments by Model Count
+
 📊 Bar Charts: Avg. Battery Capacity by Brand & Segment
+
 📈 Line Chart: Max Fast Charging Power by Brand
+
 🧭 Efficiency (Wh/km) included for technical evaluation
   
 5. Dataset
