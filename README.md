@@ -1,4 +1,4 @@
-# Electric-Vehicle-Spec-Dashboard-
+# Electric Vehicle Spec Dashboard
 
 1. Project Objective
 
