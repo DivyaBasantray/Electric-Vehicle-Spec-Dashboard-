@@ -42,20 +42,20 @@ b) Offer insights on top-performing brands, segments, and body types.
 c) Help manufacturers and buyers identify trends, performance benchmarks, and potential improvements
 - This dashboard simplifies complex EV data into visual summaries, KPIs, and comparisons to enable quicker, data-driven decisions.  
    
-✅ KPIs showing:
+KPIs for:
 - Average Range (Km)
 - Average Battery Capacity (kWh)
 - Min Acceleration Time (0–100 Km/h in Sec)
 - Max Top Speed (Km/h)
 - Total Number of Models
   
-✅ Interactive Filters:
+Interactive Filters:
 - Brand
 - Car Body Type
 - Segment
 -Drivetrain
 
-✅ Visualizations:
+Visualizations:
 
 📋 Table: Detailed EV specifications (Range, Battery, Charging, Speed, Segment, Efficiency)
 
@@ -80,8 +80,8 @@ c) Help manufacturers and buyers identify trends, performance benchmarks, and po
 6. Screenshots / Demos
    
 Here's a preview of the dashboard:
+[Dashboard Preview](https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
-(https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
    
   
