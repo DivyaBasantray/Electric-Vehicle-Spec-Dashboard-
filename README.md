@@ -81,7 +81,7 @@ c) Help manufacturers and buyers identify trends, performance benchmarks, and po
    
 Here's a preview of the dashboard:
 
-https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png
+(https://github.com/DivyaBasantray/Electric-Vehicle-Spec-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
    
   
