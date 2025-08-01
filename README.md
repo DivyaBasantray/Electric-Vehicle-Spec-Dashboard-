@@ -1,6 +1,7 @@
 # Electric-Vehicle-Spec-Dashboard-
 
 1. Project Objective
+
    To visualize and analyze key specifications of electric vehicles — including battery capacity, range, acceleration, top speed, and efficiency — and gain insights that can assist in comparing models,     understanding market trends, and supporting data-driven decisions for manufacturers and customers.
 
 2. Key Insights
