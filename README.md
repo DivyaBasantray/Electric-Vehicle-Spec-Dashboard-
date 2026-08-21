@@ -14,17 +14,17 @@
 
 ## 3. Tech Stack
 
-**Microsoft Power BI Desktop -** Main data visualization platform used for report creation.
+**1. Microsoft Power BI Desktop -** Main data visualization platform used for report creation.
 
-**Power Query -** Data transformation and cleaning layer for reshaping and preparing the data.
+**2. Power Query -** Data transformation and cleaning layer for reshaping and preparing the data.
 
-**DAX (Data Analysis Expressions) -** Used for calculated measures or KPIs (AVERAGE, MIN, MAX, DISTINCTCOUNT), dynamic visuals, and conditional logic.
+**3. DAX (Data Analysis Expressions) -** Used for calculated measures or KPIs (AVERAGE, MIN, MAX, DISTINCTCOUNT), dynamic visuals, and conditional logic.
 
-**Data Modeling -** Relationships established among various specifications in table format (such as Range (Km), Battery Capacity (kWh), Fast Charging (kW), Top Speed (Km/h), Segment, Efficiency (Wh/km).
+**4. Data Modeling -** Relationships established among various specifications in table format (such as Range (Km), Battery Capacity (kWh), Fast Charging (kW), Top Speed (Km/h), Segment, Efficiency (Wh/km).
 
-**File Format -** .pbix for development and .png for dashboard previews.
+**5. File Format -** .pbix for development and .png for dashboard previews.
 
-**Microsoft Excel -** used for initial data formatting/cleaning.
+**6. Microsoft Excel -** used for initial data formatting/cleaning.
 
 ## 5. Dashboard Purpose & Features
    
@@ -66,17 +66,17 @@ c) Help manufacturers and buyers identify trends, performance benchmarks, and po
 
 **Visualizations:**
 
-**Table:** Detailed EV specifications (Range, Battery, Charging, Speed, Segment, Efficiency)
+**1. Table:** Detailed EV specifications (Range, Battery, Charging, Speed, Segment, Efficiency)
 
-**Scatter Plot:** Range vs Top Speed vs Acceleration by Brand
+**2. Scatter Plot:** Range vs Top Speed vs Acceleration by Brand
 
-**Donut Chart:** Top 5 Vehicle Segments by Model Count
+**3. Donut Chart:** Top 5 Vehicle Segments by Model Count
 
-**Bar Charts:** Avg. Battery Capacity by Brand & Segment
+**4. Bar Charts:** Avg. Battery Capacity by Brand & Segment
 
-**Line Chart:** Max Fast Charging Power by Brand
+**5. Line Chart:** Max Fast Charging Power by Brand
 
-**Efficiency (Wh/km)** included for technical evaluation
+**6. Efficiency (Wh/km)** included for technical evaluation
   
 ## 5. Dataset
 - This dataset provides a comprehensive collection of specifications and performance metrics for modern electric vehicles (EVs).
